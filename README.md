@@ -3,8 +3,10 @@
 # Rooms App with Reviews - final practice for project #3
 
 Link to your backend repository here:
+https://github.com/ItaloGu/lab-express-rooms-with-reviews
 
 Link to your frontend repository here:
+https://github.com/ItaloGu/front-lab-express-rooms-with-reviews
 
 ## Introduction
 
